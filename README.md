@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Fareed-tehrai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-Hi 👋, I'MUHAMMAD FAREED
+A Passionate Front-end Developer from Karachi, Pakistan
+Coding Animation
 
-<!---
-Fareed-tehrai/Fareed-tehrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+🌱 I’m currently learning web development
+👨‍💻 All of my projects are available at my GitHub repositories At (https://github.com/Fareed-tehrai)
+💬 Ask me about HTML, CSS, JavaScript
+📫 How to reach me: Fareeduddin1@icloud.com
